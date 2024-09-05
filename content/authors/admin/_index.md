@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Ziqian Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Ziqian
+last_name: Wei
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,12 +24,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:weizq@umich.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -48,12 +37,12 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Quantitative Analysis
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Master's Statistics
+    institution: University of Michigan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
